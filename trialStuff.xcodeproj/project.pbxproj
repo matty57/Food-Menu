@@ -90,16 +90,16 @@
 		0F88F0B81505124F00590E27 /* trialStuff */ = {
 			isa = PBXGroup;
 			children = (
-				0F88F0DA150513AD00590E27 /* Unknown.jpeg */,
 				0F88F0C11505124F00590E27 /* AppDelegate.h */,
 				0F88F0C21505124F00590E27 /* AppDelegate.m */,
 				0F88F0C41505124F00590E27 /* MainStoryboard.storyboard */,
 				0F88F0C71505124F00590E27 /* FirstViewController.h */,
 				0F88F0C81505124F00590E27 /* FirstViewController.m */,
-				0F88F0CA1505124F00590E27 /* first.png */,
-				0F88F0CC1505124F00590E27 /* first@2x.png */,
 				0F88F0CE1505124F00590E27 /* SecondViewController.h */,
 				0F88F0CF1505124F00590E27 /* SecondViewController.m */,
+				0F88F0DA150513AD00590E27 /* Unknown.jpeg */,
+				0F88F0CA1505124F00590E27 /* first.png */,
+				0F88F0CC1505124F00590E27 /* first@2x.png */,
 				0F88F0D11505124F00590E27 /* second.png */,
 				0F88F0D31505124F00590E27 /* second@2x.png */,
 				0F88F0B91505124F00590E27 /* Supporting Files */,

@@ -10,4 +10,9 @@
 
 @interface FirstViewController : UIViewController
 
+- (IBAction)saltTheEggs:(id)sender;
+- (IBAction)pepperTheEggs:(id)sender;
+- (IBAction)eatTheEggs:(id)sender;
+- (IBAction)goToJail:(id)sender;
+
 @end
