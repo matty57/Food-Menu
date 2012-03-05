@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface FirstViewController : UIViewController
-
+//Methods for increasing the scrumptiousness of the eggs
 - (IBAction)saltTheEggs:(id)sender;
 - (IBAction)pepperTheEggs:(id)sender;
 - (IBAction)eatTheEggs:(id)sender;
